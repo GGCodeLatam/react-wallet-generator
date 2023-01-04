@@ -1,0 +1,30 @@
+{
+  "name": "react-wallet-generator",
+  "version": "1.0.10",
+  "description": "library to generate wallets in evm blockchains",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGCodeLatam/react-wallet-generator.git"
+  },
+  "keywords": [
+    "wallet",
+    "generator",
+    "react",
+    "evm",
+    "ethereum",
+    "polygon",
+    "matic"
+  ],
+  "author": "GGCodeLatam <gg.code.latam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GGCodeLatam/react-wallet-generator/issues"
+  },
+  "homepage": "https://github.com/GGCodeLatam/react-wallet-generator#readme",
+  "preferGlobal": true,
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
